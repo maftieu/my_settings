@@ -1,15 +1,14 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"AngularJS Snippets",
 		"EditorConfig",
 		"Emmet",
 		"Git",
-		"GotoDocumentation",
 		"Package Control",
 		"SCSS",
 		"Theme - Cobalt2",
