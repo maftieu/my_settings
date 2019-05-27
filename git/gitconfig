@@ -1,0 +1,13 @@
+[color]
+	ui = true
+
+[alias]
+	co = checkout
+	ci = commit
+	st = status -s
+	br = branch
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	mgh = !git fetch origin master && git merge FETCH_HEAD
+
+[fetch]
+	prune = true
