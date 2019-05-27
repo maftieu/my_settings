@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "telemetry.enableTelemetry": false,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "editor.codeLens": false,
+    "editor.rulers": [
+        110
+    ],
+    "window.zoomLevel": 0
+}
